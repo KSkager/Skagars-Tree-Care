@@ -7,6 +7,7 @@ body {
 #title {
     color: rgb(50, 16, 223);
     background-color:rgb(115, 195, 195);
+    border-radius: 5%;
     /* position: relative;
     z-index: 2; */
     /* background-color: #ff4c68;  */
@@ -123,6 +124,7 @@ p {
 #testimonials {
     text-align: center;
     background-color: rgb(115, 195, 195);
+    border-radius: 5%;
 }
 
 .testimonial-img {
@@ -181,6 +183,7 @@ p {
     text-align: center;
     color: #fff;
     background-color: rgb(115, 195, 195);
+    border-radius: 5%;
     padding: 7%;
 }
 
