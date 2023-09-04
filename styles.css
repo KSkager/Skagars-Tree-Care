@@ -7,7 +7,7 @@ body {
 #title {
     color: rgb(50, 16, 223);
     background-color:rgb(115, 195, 195);
-    border-radius: 5%;
+    border-radius: 0% 0% 5% 5%;
     /* position: relative;
     z-index: 2; */
     /* background-color: #ff4c68;  */
